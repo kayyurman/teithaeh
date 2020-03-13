@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xihaejoor.wwlsm.cn/sitemap.xml
